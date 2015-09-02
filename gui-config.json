@@ -1,7 +1,7 @@
 {
 "configs" : [
   {
-"server" : "45.62.117.62",
+"server" : "xxx",
 "server_port" : 8080,
 "password" : "***",
 "method" : "aes-256-cfb",
